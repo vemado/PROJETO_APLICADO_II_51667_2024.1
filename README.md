@@ -32,6 +32,7 @@ Este projeto analisa dados demográficos e médicos de pacientes na fila de espe
 2. Crie um ambiente virtual e ative-o:
 
     python3 -m venv venv
+
     source venv/bin/activate
 
 3. Instale as dependências:
