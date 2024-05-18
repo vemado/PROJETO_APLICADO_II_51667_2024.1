@@ -54,6 +54,9 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para d
 Para dúvidas ou sugestões, entre em contato com:
 
 Eduardo Nogueira Mota
+
 Enzo Vemado
+
 Jenifer Rinara
+
 Vagner Milani
